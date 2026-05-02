@@ -1,4 +1,5 @@
 MAX_CHARS = 10000
+WORKING_DIR = "./test"
 SYSTEM_PROMPT = """
 You are a helpful AI coding agent.
 
